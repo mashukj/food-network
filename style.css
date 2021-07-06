@@ -5,8 +5,9 @@ body{
 h1{
     font-size: 65px;
 }
-section{
+.flexible-container{
     display: flex;
+    margin-bottom: 100px;
 }
 .half-width{
     width: 50%;
@@ -15,6 +16,7 @@ section{
 }
 .half-width img{
     width: 80%;
+    
 }
 .orange-color{
     color: orange;
@@ -24,6 +26,17 @@ section{
     background-image: linear-gradient(orange,tomato);
     color: white;
     font-weight: 700;
-    padding: 10px 40px;
+    padding: 10px 30px;
     border-radius: 30px;
+}
+.about-me{
+    text-align: left;
+    
+}
+.about-me img{
+    width: 50%;
+    height: 90%;
+}
+.about-me{
+    background-image: url(images/shapes/7.png);
 }
