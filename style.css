@@ -40,3 +40,24 @@ h1{
 .about-me{
     background-image: url(images/shapes/7.png);
 }
+#recipes{
+    text-align: center;
+    margin-bottom: 50px;
+}
+.one-third-width{
+    width: 30%;
+    
+    
+}
+.one-third-width img{
+    width: 95%;
+
+}
+.box-shadow{
+   margin-right: 3%;
+   margin-left: 3%;
+   border-radius: 20px;
+   padding-top: 20px;
+   padding-left: 20px;
+    box-shadow: 10px 10px 40px grey;
+}
