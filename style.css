@@ -1,7 +1,7 @@
 body{
     font-family: 'Noto Sans JP', sans-serif;
     margin: 0;
-    margin-bottom: 0;
+   
 }
 h1{
     font-size: 65px;
@@ -32,15 +32,14 @@ h1{
 }
 .about-me{
     text-align: left;
-    
-}
-.about-me img{
-    width: 50%;
-    height: 90%;
-}
-.about-me{
     background-image: url(images/shapes/7.png);
 }
+.about-me img{
+   
+    width: 50%;
+    
+}
+
 #recipes{
     text-align: center;
     margin-bottom: 50px;
